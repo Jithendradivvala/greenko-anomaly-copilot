@@ -1,6 +1,6 @@
 # Renewable Asset Fault & Anomaly Detection Copilot
 
-**Live Railway Deployment:** [web-production-96cd093b.up.railway.app]
+**Live Railway Deployment:** [https://web-production-96cd093b.up.railway.app]
 
 ## 1. Project Overview
 This project fulfills the Greenko AI/ML assessment by providing a Python ML pipeline and a copilot UI. It detects abnormal renewable-asset behavior in solar and wind telemetry and generates operator-friendly explanations with recommended next checks.
